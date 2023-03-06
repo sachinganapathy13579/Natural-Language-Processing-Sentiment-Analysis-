@@ -1,3 +1,3 @@
-# Natural-Language-Processing-Sentimental-Analysis
+# Natural-Language-Processing-Sentiment-Analysis
 
-## Perform sentimental analysis on the Elon-musk tweets.
+## Perform sentiment analysis on the Elon-musk tweets.
